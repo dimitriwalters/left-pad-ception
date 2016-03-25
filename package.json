@@ -1,0 +1,27 @@
+{
+  "name": "left-pad-ception",
+  "version": "0.0.3",
+  "description": "What's more modular than left-pad? A module to use left-pad of course!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dimitriwalters/left-pad-ception.git"
+  },
+  "keywords": [
+    "left",
+    "pad",
+    "ception"
+  ],
+  "author": "Dimitri Walters <me@dimi.io> (http://dimi.io/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dimitriwalters/left-pad-ception/issues"
+  },
+  "homepage": "https://github.com/dimitriwalters/left-pad-ception",
+  "dependencies": {
+    "left-pad": "^1.0.1"
+  }
+}
